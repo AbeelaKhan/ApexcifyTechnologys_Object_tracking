@@ -52,12 +52,16 @@ python object_tracking.py
 - Object tracking with unique tracking IDs
 - Lightweight and optimized for real-time performance
 
+---
+
 ## Learning Outcomes
 
 - Understanding of object detection models (YOLOv8)
 - Basic video processing with OpenCV
 - Implementation of object tracking algorithms (ByteTrack)
 - Real-time visualization of AI predictions
+
+---
 
 ## Note
 This project was created as part of an internship task for learning object detection and tracking.
